@@ -1,0 +1,14 @@
+package com.stackroute.demo.pe_3;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class ThrowObjTest {
+
+	@Test
+	public void test() {
+		fail("Not yet implemented");
+	}
+
+}
